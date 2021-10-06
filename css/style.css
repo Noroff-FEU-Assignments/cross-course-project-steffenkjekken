@@ -4,7 +4,13 @@ html{
 
 h1{
     color: lavenderblush;
-    font-size: large;
+    font-size:larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    color: lightgray;
+    font-size: medium;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
